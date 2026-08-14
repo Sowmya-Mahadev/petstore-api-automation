@@ -1,0 +1,27 @@
+# Maven
+target/
+
+# Java compiled files
+*.class
+
+# TestNG reports
+test-output/
+
+# Custom reports
+reports/
+
+# Logs
+logs/
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
